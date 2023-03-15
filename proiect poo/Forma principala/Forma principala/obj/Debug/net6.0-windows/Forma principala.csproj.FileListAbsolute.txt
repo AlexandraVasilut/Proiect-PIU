@@ -1,0 +1,20 @@
+C:\Users\Alexandra\OneDrive\Desktop\proiect poo\Forma principala\Forma principala\bin\Debug\net6.0-windows\Forma principala.exe
+C:\Users\Alexandra\OneDrive\Desktop\proiect poo\Forma principala\Forma principala\bin\Debug\net6.0-windows\Forma principala.deps.json
+C:\Users\Alexandra\OneDrive\Desktop\proiect poo\Forma principala\Forma principala\bin\Debug\net6.0-windows\Forma principala.runtimeconfig.json
+C:\Users\Alexandra\OneDrive\Desktop\proiect poo\Forma principala\Forma principala\bin\Debug\net6.0-windows\Forma principala.dll
+C:\Users\Alexandra\OneDrive\Desktop\proiect poo\Forma principala\Forma principala\bin\Debug\net6.0-windows\Forma principala.pdb
+C:\Users\Alexandra\OneDrive\Desktop\proiect poo\Forma principala\Forma principala\obj\Debug\net6.0-windows\Forma principala.csproj.AssemblyReference.cache
+C:\Users\Alexandra\OneDrive\Desktop\proiect poo\Forma principala\Forma principala\obj\Debug\net6.0-windows\Forma_principala.Form1.resources
+C:\Users\Alexandra\OneDrive\Desktop\proiect poo\Forma principala\Forma principala\obj\Debug\net6.0-windows\Forma_principala.Properties.Resources.resources
+C:\Users\Alexandra\OneDrive\Desktop\proiect poo\Forma principala\Forma principala\obj\Debug\net6.0-windows\Forma principala.csproj.GenerateResource.cache
+C:\Users\Alexandra\OneDrive\Desktop\proiect poo\Forma principala\Forma principala\obj\Debug\net6.0-windows\Forma principala.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexandra\OneDrive\Desktop\proiect poo\Forma principala\Forma principala\obj\Debug\net6.0-windows\Forma principala.AssemblyInfoInputs.cache
+C:\Users\Alexandra\OneDrive\Desktop\proiect poo\Forma principala\Forma principala\obj\Debug\net6.0-windows\Forma principala.AssemblyInfo.cs
+C:\Users\Alexandra\OneDrive\Desktop\proiect poo\Forma principala\Forma principala\obj\Debug\net6.0-windows\Forma principala.csproj.CoreCompileInputs.cache
+C:\Users\Alexandra\OneDrive\Desktop\proiect poo\Forma principala\Forma principala\obj\Debug\net6.0-windows\Forma principala.dll
+C:\Users\Alexandra\OneDrive\Desktop\proiect poo\Forma principala\Forma principala\obj\Debug\net6.0-windows\refint\Forma principala.dll
+C:\Users\Alexandra\OneDrive\Desktop\proiect poo\Forma principala\Forma principala\obj\Debug\net6.0-windows\Forma principala.pdb
+C:\Users\Alexandra\OneDrive\Desktop\proiect poo\Forma principala\Forma principala\obj\Debug\net6.0-windows\Forma principala.genruntimeconfig.cache
+C:\Users\Alexandra\OneDrive\Desktop\proiect poo\Forma principala\Forma principala\obj\Debug\net6.0-windows\ref\Forma principala.dll
+C:\Users\Alexandra\OneDrive\Desktop\proiect poo\Forma principala\Forma principala\obj\Debug\net6.0-windows\Forma_principala.Pagina_de_logare.resources
+C:\Users\Alexandra\OneDrive\Desktop\proiect poo\Forma principala\Forma principala\obj\Debug\net6.0-windows\Forma_principala.Detalii_test.resources
